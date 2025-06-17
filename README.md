@@ -73,8 +73,8 @@ Examen T2/
 ## Instrucciones de compilación y ejecución
 1. Clona el repositorio o descarga el código fuente.
    
-    https://github.com/Jhuanca2023/Examen-T2-Moviles-.git
-
+   ``` https://github.com/Jhuanca2023/Examen-T2-Moviles-.git```
+  
 3. Abre el proyecto en **Android Studio**.
 4. Sincroniza el proyecto con Gradle.
 5. Ejecuta la app en un emulador o dispositivo físico con Android 8.0+.
