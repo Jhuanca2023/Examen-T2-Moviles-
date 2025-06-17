@@ -51,13 +51,21 @@ Examen T2/
 ## Capturas de pantalla
 
 ### Listado de Personas
-![Listado de Personas](./captura_listado.png)
+![image](https://github.com/user-attachments/assets/8c7a761e-3fbe-4e9f-a94e-23b34053427e)
+
 
 ### Registro/Edición de Persona
-![Registro de Persona](./captura_registro.png)
+![image](https://github.com/user-attachments/assets/59f76819-261c-42c5-a4de-8e94cf9b000f)
+![image](https://github.com/user-attachments/assets/aee5570a-cf3d-4cae-acd6-cd1bc1743194)
+
+![image](https://github.com/user-attachments/assets/511c8162-080b-4858-a71c-1e4aaa9baded)
+
+
+
 
 ### Detalle de Persona
-![Detalle de Persona](./captura_detalle.png)
+![image](https://github.com/user-attachments/assets/8de0db43-0b8c-4347-9b7b-4c03fc3b6ef9)
+
 
 > **Nota:** Las imágenes corresponden a las capturas proporcionadas durante el desarrollo.
 
