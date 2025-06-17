@@ -58,7 +58,8 @@ Examen T2/
 ![image](https://github.com/user-attachments/assets/59f76819-261c-42c5-a4de-8e94cf9b000f)
 ![image](https://github.com/user-attachments/assets/aee5570a-cf3d-4cae-acd6-cd1bc1743194)
 
-![image](https://github.com/user-attachments/assets/511c8162-080b-4858-a71c-1e4aaa9baded)
+![image](https://github.com/user-attachments/assets/b5dc81ec-5cd0-4901-8757-a4b869697329)
+
 
 
 
